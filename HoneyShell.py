@@ -41,7 +41,6 @@ while(True == True):
     realtime = balances["realtime"]
     payout = balances["payout"]
     min_payout = balances["min_payout"]
-    print(aboutme)
     print(logo)
     print("\033[33mCurrent Token \033[37m:\033[91m " + shorttoken)
     print("\033[33mTotal Devices \033[37m:\033[91m {}".format((aboutme["total_devices"])))
