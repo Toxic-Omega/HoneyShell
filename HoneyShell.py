@@ -19,7 +19,7 @@ if not os.path.exists('info.txt'):
     print(logo)
     print("First time use detected!")
     print("")
-    email = input("Your Honey Email : ")
+    email = input("Your Honeygain Email : ")
     password = input("Your Honeygain Password : ")
     gettoken = post("https://dashboard.honeygain.com/api/v1/users/tokens", json={'email': email,'password': password}).json()['data']
     w = open('info.txt', 'w')
