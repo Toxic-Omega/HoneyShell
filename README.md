@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img width="1091" height="300" src="https://github.com/Toxic-Omega/HoneyShell/blob/main/title.png">
+  <img width="1091" height="280" src="https://github.com/Toxic-Omega/HoneyShell/blob/main/title.png">
 </p>
 
 ## Requirements
