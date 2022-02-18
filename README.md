@@ -2,6 +2,7 @@
   <img width="1091" height="250" src="https://github.com/Toxic-Omega/HoneyShell/blob/main/title.png">
 </p>
 
+# WARNING : YOU COULD GET BANNED FOR SENDING TOO MUCH REQUESTS!!!
 ## Requirements
 ```sh
 Python 3.10.0 or higher
